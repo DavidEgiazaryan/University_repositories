@@ -1,0 +1,11 @@
+﻿  1zadanie.cpp
+  2zadanie.cpp
+  6zadanie.cpp
+C:\Users\daveg\source\repos\Contest_Algosi_3\Contest_Algosi_3\6zadanie.cpp(8,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\daveg\source\repos\Contest_Algosi_3\Contest_Algosi_3\6zadanie.cpp(9,29): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+C:\Users\daveg\source\repos\Contest_Algosi_3\Contest_Algosi_3\6zadanie.cpp(9,29): warning C4244:         with
+C:\Users\daveg\source\repos\Contest_Algosi_3\Contest_Algosi_3\6zadanie.cpp(9,29): warning C4244:         [
+C:\Users\daveg\source\repos\Contest_Algosi_3\Contest_Algosi_3\6zadanie.cpp(9,29): warning C4244:             _Ty=int
+C:\Users\daveg\source\repos\Contest_Algosi_3\Contest_Algosi_3\6zadanie.cpp(9,29): warning C4244:         ]
+  Создание кода...
+  Contest_Algosi_3.vcxproj -> C:\Users\daveg\source\repos\Contest_Algosi_3\x64\Debug\Contest_Algosi_3.exe

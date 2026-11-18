@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\Contest_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40DE91C1-5D5B-42A7-A38A-868B2FB0E219}|Contest_1\\Contest_1.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_1\\Contest_1\\Contest_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40DE91C1-5D5B-42A7-A38A-868B2FB0E219}|Contest_1\\Contest_1.vcxproj|solutionrelative:Contest_1\\Contest_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contest_1.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_1\\Contest_1\\Contest_1.cpp",
+              "RelativeDocumentMoniker": "Contest_1\\Contest_1.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_1\\Contest_1\\Contest_1.cpp",
+              "RelativeToolTip": "Contest_1\\Contest_1.cpp",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAAUBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T08:12:16.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\Seminar_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8E44A-7D12-4B26-B7B5-828F846FDB6E}|Seminar_2\\Seminar_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Seminar_2\\Seminar_2\\Sem_1_if_or_else.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A8E44A-7D12-4B26-B7B5-828F846FDB6E}|Seminar_2\\Seminar_2.vcxproj|solutionrelative:Seminar_2\\Sem_1_if_or_else.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8E44A-7D12-4B26-B7B5-828F846FDB6E}|Seminar_2\\Seminar_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Seminar_2\\Seminar_2\\Lection_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A8E44A-7D12-4B26-B7B5-828F846FDB6E}|Seminar_2\\Seminar_2.vcxproj|solutionrelative:Seminar_2\\Lection_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem_1_if_or_else.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Seminar_2\\Seminar_2\\Sem_1_if_or_else.cpp",
+              "RelativeDocumentMoniker": "Seminar_2\\Sem_1_if_or_else.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Seminar_2\\Seminar_2\\Sem_1_if_or_else.cpp",
+              "RelativeToolTip": "Seminar_2\\Sem_1_if_or_else.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-26T08:05:52.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lection_2.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Seminar_2\\Seminar_2\\Lection_2.cpp",
+              "RelativeDocumentMoniker": "Seminar_2\\Lection_2.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Seminar_2\\Seminar_2\\Lection_2.cpp",
+              "RelativeToolTip": "Seminar_2\\Lection_2.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T18:49:37.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

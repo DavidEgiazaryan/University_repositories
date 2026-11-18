@@ -1,0 +1,9 @@
+﻿  A.cpp
+  D.cpp
+  E.cpp
+  G.cpp
+  С.cpp
+C:\Users\daveg\source\repos\Contest_algosi_4\Contest_algosi_4\G.cpp(13,13): error C4235: использовано нестандартное расширение: ключевое слово "__int128" данной архитектурой не поддерживается
+C:\Users\daveg\source\repos\Contest_algosi_4\Contest_algosi_4\G.cpp(13,21): error C2059: синтаксическая ошибка: )
+C:\Users\daveg\source\repos\Contest_algosi_4\Contest_algosi_4\G.cpp(70,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...

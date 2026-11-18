@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\9zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|solutionrelative:Contest_algosi_2\\9zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\4zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|solutionrelative:Contest_algosi_2\\4zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\zadanie6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|solutionrelative:Contest_algosi_2\\zadanie6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|solutionrelative:Contest_algosi_2\\1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\7zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|solutionrelative:Contest_algosi_2\\7zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\5zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC3AE7-521A-486E-BDF5-62F29FECB3F2}|Contest_algosi_2\\Contest_algosi_2.vcxproj|solutionrelative:Contest_algosi_2\\5zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\9zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_2\\9zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\9zadanie.cpp*",
+              "RelativeToolTip": "Contest_algosi_2\\9zadanie.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T18:40:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zadanie6.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\zadanie6.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_2\\zadanie6.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\zadanie6.cpp",
+              "RelativeToolTip": "Contest_algosi_2\\zadanie6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T16:57:22.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\4zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_2\\4zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\4zadanie.cpp",
+              "RelativeToolTip": "Contest_algosi_2\\4zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T13:08:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "7zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\7zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_2\\7zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\7zadanie.cpp",
+              "RelativeToolTip": "Contest_algosi_2\\7zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T19:31:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\5zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_2\\5zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\5zadanie.cpp",
+              "RelativeToolTip": "Contest_algosi_2\\5zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-15T15:46:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\1zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_2\\1zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_2\\Contest_algosi_2\\1zadanie.cpp",
+              "RelativeToolTip": "Contest_algosi_2\\1zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-14T12:38:14.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

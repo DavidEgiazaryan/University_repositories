@@ -1,0 +1,602 @@
+﻿  4zadanie.cpp
+  9zadanie.cpp
+  zadanie6.cpp
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,21): error C2676: бинарный "!=": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,21): error C2676:         with
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,21): error C2676:         [
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,21): error C2676:             _Ty=std::string
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,21): error C2676:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2281,17):
+      может быть "bool std::operator !=(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::vector<_Ty,_Alloc> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3728,17):
+      или       "bool std::operator !=(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3723,17):
+      или       "bool std::operator !=(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3672,17):
+      или       "bool std::operator !=(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1938,17):
+      или       "bool std::operator !=(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1933,17):
+      или       "bool std::operator !=(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1891,17):
+      или       "bool std::operator !=(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3300,17):
+      или       "bool std::operator !=(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3294,17):
+      или       "bool std::operator !=(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3288,17):
+      или       "bool std::operator !=(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(1056,17):
+      или       "bool std::operator !=(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(493,17):
+      или       "bool std::operator !=(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(311,17):
+      или       "bool std::operator !=(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4471,30):
+      или       "bool std::operator !=(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1908,30):
+      или       "bool std::operator !=(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(519,27):
+      или       "bool std::operator !=(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(13,19):
+          'bool std::operator !=(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,26): error C2676: бинарный "==": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,26): error C2676:         with
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,26): error C2676:         [
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,26): error C2676:             _Ty=std::string
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,26): error C2676:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2266,30):
+      может быть "bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::vector<_Ty,_Alloc> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3718,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3712,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3666,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1928,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1917,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1880,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3282,17):
+      или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3263,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3257,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(1050,30):
+      или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(486,17):
+      или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(304,17):
+      или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4458,30):
+      или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1896,30):
+      или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(503,27):
+      или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(73,24):
+          'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,47): error C2676: бинарный "==": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,47): error C2676:         with
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,47): error C2676:         [
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,47): error C2676:             _Ty=std::string
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,47): error C2676:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2266,30):
+      может быть "bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::vector<_Ty,_Alloc> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3718,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3712,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3666,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1928,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1917,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1880,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3282,17):
+      или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3263,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3257,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(1050,30):
+      или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(486,17):
+      или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(304,17):
+      или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4458,30):
+      или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1896,30):
+      или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(503,27):
+      или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(74,45):
+          'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,49): error C2676: бинарный "==": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,49): error C2676:         with
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,49): error C2676:         [
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,49): error C2676:             _Ty=std::string
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,49): error C2676:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2266,30):
+      может быть "bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::vector<_Ty,_Alloc> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3718,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3712,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3666,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1928,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1917,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1880,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3282,17):
+      или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3263,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3257,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(1050,30):
+      или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(486,17):
+      или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(304,17):
+      или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4458,30):
+      или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1896,30):
+      или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(503,27):
+      или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(75,47):
+          'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,54): error C2676: бинарный "==": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,54): error C2676:         with
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,54): error C2676:         [
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,54): error C2676:             _Ty=std::string
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,54): error C2676:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2266,30):
+      может быть "bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::vector<_Ty,_Alloc> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3718,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3712,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(3666,30):
+      или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1928,17):
+      или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1917,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1880,17):
+      или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3282,17):
+      или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3263,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(3257,30):
+      или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'char'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(1050,30):
+      или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(486,17):
+      или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator(304,17):
+      или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4458,30):
+      или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1896,30):
+      или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(503,27):
+      или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+          C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(79,52):
+          'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  
+C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(103,14): error C2664: "bool checkAll(int,int,std::vector<__int64,std::allocator<__int64>>,std::vector<std::string,std::allocator<std::string>>,std::vector<int,std::allocator<int>>,std::vector<int,std::allocator<int>>)": невозможно преобразовать аргумент 4 из "std::vector<char,std::allocator<char>>" в "std::vector<std::string,std::allocator<std::string>>"
+      C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(103,37):
+      Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+      C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(5,6):
+       см. объявление "checkAll"
+      C:\Users\daveg\source\repos\Contest_algosi_2\Contest_algosi_2\9zadanie.cpp(103,14):
+      при попытке сопоставить список аргументов "(int, int, std::vector<__int64,std::allocator<__int64>>, std::vector<char,std::allocator<char>>, std::vector<int,std::allocator<int>>, std::vector<int,std::allocator<int>>)"
+  
+  Создание кода...

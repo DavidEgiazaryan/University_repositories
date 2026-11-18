@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Algosi_contest_2pointers/Algosi_contest_2pointers.vcxproj" Id="7c023339-43fa-42eb-8619-d4b67f8fce90" />
+</Solution>

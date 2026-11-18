@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|solutionrelative:Contest_algosi_4\\D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\\u0421.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|solutionrelative:Contest_algosi_4\\\u0421.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\G.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|solutionrelative:Contest_algosi_4\\G.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|solutionrelative:Contest_algosi_4\\E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|solutionrelative:Contest_algosi_4\\B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA27BDD-01AE-42CA-8255-CCD14E543074}|Contest_algosi_4\\Contest_algosi_4.vcxproj|solutionrelative:Contest_algosi_4\\A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\E.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_4\\E.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\E.cpp",
+              "RelativeToolTip": "Contest_algosi_4\\E.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T16:07:43.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\D.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_4\\D.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\D.cpp",
+              "RelativeToolTip": "Contest_algosi_4\\D.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T16:01:31.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0421.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\\u0421.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_4\\\u0421.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\\u0421.cpp",
+              "RelativeToolTip": "Contest_algosi_4\\\u0421.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T15:43:22.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "G.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\G.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_4\\G.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\G.cpp",
+              "RelativeToolTip": "Contest_algosi_4\\G.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T17:15:52.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\A.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_4\\A.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\A.cpp",
+              "RelativeToolTip": "Contest_algosi_4\\A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T17:00:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\B.cpp",
+              "RelativeDocumentMoniker": "Contest_algosi_4\\B.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_algosi_4\\Contest_algosi_4\\B.cpp",
+              "RelativeToolTip": "Contest_algosi_4\\B.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T16:41:54.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

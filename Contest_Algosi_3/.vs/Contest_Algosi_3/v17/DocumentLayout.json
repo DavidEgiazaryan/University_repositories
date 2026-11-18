@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\4zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|solutionrelative:Contest_Algosi_3\\4zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\7zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|solutionrelative:Contest_Algosi_3\\7zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\3zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|solutionrelative:Contest_Algosi_3\\3zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\6zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|solutionrelative:Contest_Algosi_3\\6zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|solutionrelative:Contest_Algosi_3\\1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DD5D49-0A68-4694-A930-26A4910EABCC}|Contest_Algosi_3\\Contest_Algosi_3.vcxproj|solutionrelative:Contest_Algosi_3\\2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\4zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_Algosi_3\\4zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\4zadanie.cpp",
+              "RelativeToolTip": "Contest_Algosi_3\\4zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T16:08:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\7zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_Algosi_3\\7zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\7zadanie.cpp",
+              "RelativeToolTip": "Contest_Algosi_3\\7zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T15:35:25.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\3zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_Algosi_3\\3zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\3zadanie.cpp",
+              "RelativeToolTip": "Contest_Algosi_3\\3zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T15:25:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\6zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_Algosi_3\\6zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\6zadanie.cpp",
+              "RelativeToolTip": "Contest_Algosi_3\\6zadanie.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T19:57:49.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\2zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_Algosi_3\\2zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\2zadanie.cpp",
+              "RelativeToolTip": "Contest_Algosi_3\\2zadanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T19:12:46.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1zadanie.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\1zadanie.cpp",
+              "RelativeDocumentMoniker": "Contest_Algosi_3\\1zadanie.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Contest_Algosi_3\\Contest_Algosi_3\\1zadanie.cpp",
+              "RelativeToolTip": "Contest_Algosi_3\\1zadanie.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T18:40:55.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\Seminar1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E21300-37BC-4331-97B5-C77582D6B302}|Seminar1\\Seminar1.vcxproj|C:\\Users\\daveg\\source\\repos\\Seminar1\\Seminar1\\Sem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49E21300-37BC-4331-97B5-C77582D6B302}|Seminar1\\Seminar1.vcxproj|solutionrelative:Seminar1\\Sem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem1.cpp",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\Seminar1\\Seminar1\\Sem1.cpp",
+              "RelativeDocumentMoniker": "Seminar1\\Sem1.cpp",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\Seminar1\\Seminar1\\Sem1.cpp",
+              "RelativeToolTip": "Seminar1\\Sem1.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-12T08:13:02.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
